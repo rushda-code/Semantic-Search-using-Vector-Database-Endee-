@@ -1,14 +1,12 @@
-#  Semantic Search using Endee Vector Database
-
-------
------
+# Semantic Search using Endee Vector Database
+----
 
 ## Project Overview
 
 This project implements a **semantic search system** over unstructured news articles using vector embeddings and similarity search.
 The system demonstrates how modern vector databases like **Endee** can be used to store embeddings and retrieve semantically relevant documents efficiently.
 
-The project uses the BBC News dataset and follows an end-to-end machine learning workflow including data preparation, embedding generation, and semantic retrieval.
+The project uses the BBC News dataset and follows an end-to-end machine learning workflow, including data preparation, embedding generation, and semantic retrieval.
 
 ---
 
@@ -80,7 +78,7 @@ In this project, Endee’s behavior is **locally simulated** using cosine simila
 
 1. Open the Colab notebook
 2. Upload the BBC News dataset ZIP file
-3. Run cells sequentially from top to bottom
+3. Run the notebook cells sequentially from top to bottom
 4. Enter a natural language query to test semantic search
 
 ---
@@ -103,4 +101,5 @@ In this project, Endee’s behavior is **locally simulated** using cosine simila
 This project demonstrates a complete semantic search pipeline and mirrors how vector databases like Endee are used in real-world AI systems such as search engines, recommendation systems, and retrieval-augmented generation pipelines.
 
 ---
+----
 
